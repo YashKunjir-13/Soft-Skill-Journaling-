@@ -214,7 +214,7 @@ Possible features for future versions:
 
 This project was created for educational purposes.
 
-## Author
+## Yash Kunjir
 
 Created as a college project demonstrating full-stack web development skills.
 
